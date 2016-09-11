@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\transparent.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\transparent.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_item_activated_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\list_item_activated_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rect_button_ripple_selector.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\rect_button_ripple_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_selector.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rect_button.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\rect_button.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\menu_selected.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\menu_selected.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rect_button_disabled.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\rect_button_disabled.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\listitem.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\listitem.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_item_activated.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\list_item_activated.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rect_button_selector.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\rect_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rect_button_selected.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\rect_button_selected.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rect_button_ripple_selector_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\rect_button_ripple_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\menu_ripple_selector_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\menu_ripple_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\toolbar_shadow.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\toolbar_shadow.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_selector_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\list_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\circle_shape.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\circle_shape.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rect_button_selector_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\rect_button_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\library\\unspecified\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_item_selected_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\list_item_selected_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_item_selected.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\list_item_selected.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\menu_selector.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\menu_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\menu_ripple_selector.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\menu_ripple_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\black.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\black.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\library\\unspecified\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\menu_selector_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\menu_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_ripple_selector.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\list_ripple_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_ripple_selector_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\list_ripple_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rect_button_disabled_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\rect_button_disabled_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\listitem1.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\listitem1.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\menu_selected_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-v21\\menu_selected_dark.xml"
+    }
+]

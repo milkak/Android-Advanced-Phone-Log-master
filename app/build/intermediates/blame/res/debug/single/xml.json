@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_userinterface.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\xml\\pref_userinterface.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_global.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\xml\\pref_global.xml"
+    }
+]

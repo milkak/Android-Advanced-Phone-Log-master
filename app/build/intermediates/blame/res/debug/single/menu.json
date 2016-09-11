@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dialog_filter_number.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\menu\\dialog_filter_number.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dialog_filter_name.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\menu\\dialog_filter_name.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\conversationlist.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\menu\\conversationlist.xml"
+    }
+]

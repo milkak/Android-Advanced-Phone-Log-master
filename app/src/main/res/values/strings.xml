@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Advanced Phone Log</string>
+    <string name="NOTAVAIL">Not Available</string>
+    <string name="theming">Theming</string>
+    <string name="base_theme">Basic Theme</string>
+    <string name="primary_color">Primary Color</string>
+    <string name="primary_color_desc">The primary theme color to use. Defaults to Material blue.</string>
+    <string name="base_theme_desc">Choose if you want a light, dark, or AMOLED black theme to paint colors on.</string>
+    <string name="done">Done</string>
+    <string name="defaultStr">Dafault</string>
+    <string name="thumbnail_color">Thumbnail Color</string>
+    <string name="accent_color">Accent Color</string>
+    <string name="sort_">Sort</string>
+    <string name="more_">More</string>
+    <string name="light">Light</string>
+    <string name="filter_">Filter</string>
+    <string name="dark">Dark</string>
+    <string name="daytime">DayTime</string>
+    <string name="Comm_">Type Calling</string>
+    <string name="statistic_">Statistic</string>
+    <string name="sort_date">Sort by Date Des</string>
+    <string name="sort_dateA">Sort by Date Asc</string>
+    <string name="sort_name">Sort by Name Des</string>
+    <string name="sort_nameA">Sort by Name Asc</string>
+    <string name="sort_talk">Sort by Talk Time Des</string>
+    <string name="sort_talkA">Sort by Talk Time Asc</string>
+    <string name="delete_log">Delete this Log</string>
+    <string name="delete_all">Delete All Logs of this Number</string>
+    <string name="add_calendar">Add to Calendar</string>
+    <string name="schedule_">Schedule an Event</string>
+    <string name="copy_cliboard">Copy Number to Clipboard</string>
+
+    <string name="all_logs">All Logs</string>
+    <string name="all_miss">All Missed Call</string>
+    <string name="all_inc">All Incoming</string>
+    <string name="all_outg">All Outgoing</string>
+    <string name="curr_month_logs">Current Month Logs</string>
+    <string name="prev_month_logs">Previous Month Logs</string>
+    <string name="total">Total sum</string>
+    <string name="choose_">Choose an Option </string>
+    <string name="choose_short">Choose a Shortcut </string>
+
+    <string name="stat_incoming">Incoming Calls </string>
+    <string name="stat_outcoming">Outcoming Calls </string>
+    <string name="stat_missed">Missed Calls </string>
+    <string name="stat_calls">Calls</string>
+    <string name="text_stat_in_sum">Number Calls</string>
+    <string name="text_stat_in_time">Total time</string>
+
+    <string name="dialog_title">Specify a Phone Log Filter</string>
+    <string name="dialog_all">All</string>
+    <string name="dialog_missed">Missed</string>
+    <string name="dialog_incoming">Incoming</string>
+    <string name="dialog_outcoming">Outgoing</string>
+    <string name="dialog_call_type">Call type:</string>
+    <string name="dialog_start_time">Start time:</string>
+    <string name="dialog_end_time">End time:</string>
+    <string name="dialog_name">Name:</string>
+    <string name="dialog_number">Number:</string>
+    <string name="dialog_hint_name">Any, Long Press for Names</string>
+    <string name="dialog_hint_num">Any, Long Press for Num</string>
+    <string name="dialog_none" translatable="false">None</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_numbers_log">Numbers of Logs Shown</string>
+    <string name="dialog_name_log">Names of Logs Shown</string>
+    <string name="dialog_choice_log">Choose an Action</string>
+
+
+    <string name="about">About</string>
+    <string name="authors">Authors</string>
+    <string name="close">Close</string>
+
+</resources>

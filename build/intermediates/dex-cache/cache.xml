@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.1.1_8e0a508c35a100ec9629aacc915d732e1ed27daa\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_2063488845db32bd7fecd08ce29443485c476e37\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_fdc8f9755c207a2ae7f8a2c5cf466d7b67a5fcc0\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.1.1_f6371686d7ec05163de73bbc51827749032912e1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\milos\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_6186961cfc92a983379c80e77cf79e98b996f8b1\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_c0068d57cd1523c1fa7b4c2460b2afb7afa2e618\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e50433b6c23b4cf71817d31f9c71ad7f237b9742">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2b32f16f0e4beaf1b830a467a30ab68d5a4d47d0\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_47df44ad57d5eac69f416816e2fcdc6ebc4db2c7\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_602630a0cba7fafed6100976c0a9e34c032b0b48\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.0.7\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b105aa5409ceb15382344efedf970c1b8257a09a">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.melnykov-floatingactionbutton-1.0.7_eaae1d20633603f39b8598efc819068bac3ea872\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_c62a302a9ee47fd27b4f3e9f6dff68e579d18f10\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.mcxiaoke.viewpagerindicator\library\2.4.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a09ed9344035830949d3501230e0a85ebb4708f7">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.viewpagerindicator-library-2.4.1_1612c92da8f4b2ffd3043a74566ed3706f937eac\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f7e96fa05df41ca081025f88be8cb7f84344b07c">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7f97c851850eeff04affa8e2f2f8666230acbdbd\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_3f4feeb64b71663a05ae2f945e1539fbf414c2e9\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_220a003198db30ffef6b860a9fce2cb71bf8c5ed\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d7cda8b933a2568e3b97b1c4307ddb5bd9fe60a0\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_a3870e916557f24efdcf034851a7186b30ef3d60\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\Android-Studio\Android-Advanced-Phone-Log-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_a3b8b81922d12b91dbfbb5b6120ac5cf1eb86be4\classes.dex" />
+    </item>
+
+</items>

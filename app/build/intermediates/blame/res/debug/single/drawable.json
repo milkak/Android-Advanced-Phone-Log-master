@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_green2_right.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_green2_right.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_white_left.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_white_left.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_wtf.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_wtf.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_blue_left.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_blue_left.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_cool.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_cool.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_blue_right.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_blue_right.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_star.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\ic_menu_star.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_application_selector.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\btn_application_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_purple_left.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_purple_left.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_shadow.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\toolbar_shadow.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_purple_right.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_purple_right.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_border.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\rounded_border.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_button_selector.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\rect_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_activated.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\list_item_activated.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_activated_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\list_item_activated_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_blue2_left.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_blue2_left.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\child_separator.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\child_separator.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stat_notify_sms_black.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\stat_notify_sms_black.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.mcxiaoke.viewpagerindicator\\library\\2.4.1\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stat_notify_sms_green.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\stat_notify_sms_green.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_keker.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\ambilwarna_keker.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\library\\unspecified\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_winking.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_winking.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_yelling.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_yelling.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_tongue_sticking_out.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_tongue_sticking_out.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_panah.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\ambilwarna_panah.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_selected.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\menu_selected.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickaction_slider_btn.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\quickaction_slider_btn.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\transparent.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_button_selector_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\rect_button_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_pink_left.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_pink_left.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_surprised.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_surprised.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_label_bg.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\widget_label_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_striped.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bg_striped.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\popup.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_red.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\AndroidCharts\\unspecified\\res\\drawable\\popup_red.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_money_mouth.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_money_mouth.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_foot_in_mouth.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_foot_in_mouth.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\library\\unspecified\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_menjadi.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\ambilwarna_menjadi.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\library\\unspecified\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_gray_left.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_gray_left.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_crying.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_crying.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_up.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\arrow_up.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_yellow_right.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_yellow_right.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_old_turquoise_right.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_old_turquoise_right.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_laughing.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_laughing.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_bar_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\action_bar_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_old_turquoise_left.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_old_turquoise_left.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\library\\unspecified\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_sad.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_sad.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_blue2_right.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_blue2_right.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\library\\unspecified\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_old_green_right.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_old_green_right.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_down.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\arrow_down.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_undecided.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_undecided.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_brown_left.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_brown_left.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_dark.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\gray_dark.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_hue.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\ambilwarna_hue.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_parent_rounded_corner.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bg_parent_rounded_corner.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_white_right.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_white_right.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_selector_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\menu_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\list_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_green_left.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_green_left.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_counter_bg.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\widget_counter_bg.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_striped_split.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bg_striped_split.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\black.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_blue.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\AndroidCharts\\unspecified\\res\\drawable\\popup_blue.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_selected.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\list_item_selected.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_button_disabled.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\rect_button_disabled.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_button.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\list_button.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_selector.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\menu_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_old_green_left.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_old_green_left.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expandable_list_group_indicator_arrow.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\expandable_list_group_indicator_arrow.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_pink_right.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_pink_right.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stat_notify_sms_yellow.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\stat_notify_sms_yellow.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abp__action_bar_shadow.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\abp__action_bar_shadow.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_green.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\AndroidCharts\\unspecified\\res\\drawable\\popup_green.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_button.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\rect_button.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\highlight_selected.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\highlight_selected.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_button_selected.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\rect_button_selected.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cell_shape.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\cell_shape.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_green_right.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_green_right.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\library\\unspecified\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_green2_left.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_green2_left.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_brown_right.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_brown_right.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_selected_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\menu_selected_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_happy.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_happy.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_orange_right.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_orange_right.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stats_add.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\stats_add.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_angel.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_angel.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\library\\unspecified\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_bar.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\action_bar.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\library\\unspecified\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_button_disabled_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\rect_button_disabled_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_gray_right.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_gray_right.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_lips_are_sealed.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_lips_are_sealed.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_selected_dark.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\list_item_selected_dark.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emo_im_kissing.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\emo_im_kissing.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\exploded-aar\\Android-Advanced-Phone-Log-master\\library\\unspecified\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_yellow_left.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_yellow_left.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_light.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\gray_light.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_middle.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\btn_strip_trans_middle.xml"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble_orange_left.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\bubble_orange_left.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\highlight.xml",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable\\highlight.xml"
+    }
+]

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+	<include layout="@layout/toolbarnew"
+		/>
+
+  <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	     android:scrollbars="vertical" 
+	     android:layout_height="fill_parent" 
+	     android:layout_width="fill_parent"
+	     android:gravity="center_horizontal">
+
+	<LinearLayout
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent">
+    <TableLayout android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:paddingRight="5dip"
+		android:paddingLeft="5dip"
+		android:stretchColumns="2"
+		>
+		<TableRow android:gravity="left">			  
+		<TextView 
+			android:id="@+id/calllog_filter_dialog_text1"
+			android:layout_column="1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/dialog_call_type"
+			android:typeface="serif"
+			android:textStyle="bold"
+			android:gravity="left"
+		/>
+		<Spinner
+			android:id="@+id/calllog_filter_dialog_spin1"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:drawSelectorOnTop="true"
+			 />
+		</TableRow>
+		<TableRow android:gravity="left">
+			<TextView 
+				android:id="@+id/calllog_filter_dialog_text2"
+				android:layout_column="1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/dialog_start_time"
+				android:typeface="serif"
+				android:textStyle="bold"
+				android:gravity="left"
+			/>
+			<EditText android:id="@+id/calllog_filter_dialog_edit2" 
+				  android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+        			android:singleLine="true" 
+					android:layout_weight="1"
+					/>
+			<android.support.v7.widget.AppCompatButton android:id="@+id/calllog_filter_dialog_btn_start_time"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content" 
+				android:text="set"
+			/>
+		</TableRow>
+		<TableRow android:gravity="left">
+			<TextView 
+				android:id="@+id/calllog_filter_dialog_text3"
+				android:layout_column="1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/dialog_end_time"
+				android:typeface="serif"
+				android:textStyle="bold"
+				android:gravity="left"
+			/>
+			<EditText android:id="@+id/calllog_filter_dialog_edit3" 
+				  android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+        			android:singleLine="true" 
+					android:layout_weight="1"
+					/>
+			<android.support.v7.widget.AppCompatButton android:id="@+id/calllog_filter_dialog_btn_end_time"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content" 
+				android:text="set"
+			/>
+		</TableRow>
+    	<TableRow android:gravity="left">
+    		<TextView 
+				android:id="@+id/calllog_filter_dialog_text4"
+				android:layout_column="1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/dialog_name"
+				android:typeface="serif"
+				android:textStyle="bold"
+				android:gravity="left"
+			/>
+			<EditText android:id="@+id/calllog_filter_dialog_edit4" 
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+       			android:singleLine="true" 
+				android:layout_weight="1"
+					/>
+    	</TableRow>
+    	<TableRow android:gravity="left">
+    		<TextView 
+				android:id="@+id/calllog_filter_dialog_text5"
+				android:layout_column="1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/dialog_number"
+				android:typeface="serif"
+				android:textStyle="bold"
+				android:gravity="left"
+			/>
+			<EditText android:id="@+id/calllog_filter_dialog_edit5" 
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+       			android:singleLine="true" 
+				android:layout_weight="1"
+					/>
+    	</TableRow>
+	</TableLayout>
+	
+	<TableLayout android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:paddingTop="20dip">
+		<TableRow android:gravity="center_horizontal">
+			<android.support.v7.widget.AppCompatButton android:id="@+id/calllog_filter_dialog_ok"
+			  	android:text="OK"
+				android:layout_height="wrap_content" />
+			<android.support.v7.widget.AppCompatButton android:id="@+id/calllog_filter_dialog_cancel"
+			  	android:text="Cancel"
+				android:layout_height="wrap_content" />
+			<android.support.v7.widget.AppCompatButton android:id="@+id/calllog_filter_dialog_reset"
+			  	android:text="Reset"
+				android:layout_height="wrap_content" />
+			<android.support.v7.widget.AppCompatButton android:id="@+id/calllog_filter_dialog_save"
+			  	android:text="LikeIt"
+			  	android:visibility="gone"
+				android:layout_height="wrap_content" />
+		</TableRow>
+	</TableLayout>
+	</LinearLayout>
+  </ScrollView>
+</LinearLayout>

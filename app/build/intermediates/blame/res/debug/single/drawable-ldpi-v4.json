@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mms_play_btn.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\mms_play_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\arrowleft.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\arrowleft.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\miss.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\miss.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\sms1.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\sms1.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_star.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_star.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_call_log_list_outgoing_call.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\ic_call_log_list_outgoing_call.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\arrowright.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\arrowright.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\highlight_selected.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\highlight_selected.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_contact_picture.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\ic_contact_picture.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\incoming.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\incoming.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\arrowup.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\arrowup.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pressed_application_background_static.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\pressed_application_background_static.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\delete.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\delete.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_striped_img.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\bg_striped_img.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\stat_notify_email_generic.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\stat_notify_email_generic.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\highlight_pressed.9.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\highlight_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_mark.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_mark.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\focused_application_background_static.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\focused_application_background_static.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_call_log_list_incoming_call.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\ic_call_log_list_incoming_call.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_striped_split_img.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\bg_striped_split_img.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\addcontact.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\addcontact.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\viewcontact2.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\viewcontact2.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_send.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_send.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\stat_notify_sms_gingerbread.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\stat_notify_sms_gingerbread.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\arrowdown.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\arrowdown.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_sms_mms_pending.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\ic_sms_mms_pending.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_compose.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_compose.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\phonecall1.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\phonecall1.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\stat_notify_sms.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\stat_notify_sms.png"
+    },
+    {
+        "merged": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\outgoing.png",
+        "source": "D:\\Android-Studio\\Android-Advanced-Phone-Log-master\\app\\src\\main\\res\\drawable-ldpi\\outgoing.png"
+    }
+]

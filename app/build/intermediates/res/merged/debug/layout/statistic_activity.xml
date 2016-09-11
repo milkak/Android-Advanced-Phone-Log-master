@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:scrollbars="vertical"
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:gravity="center_horizontal">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+    <TableLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:gravity="center_horizontal"
+        android:stretchColumns="3">
+        <TableRow
+            android:gravity="left"
+            >
+
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/text_stat_in_sum"
+                android:text="@string/text_stat_in_sum"
+                android:textSize="15sp"
+                android:layout_gravity="right"
+                android:layout_column="2"
+                android:gravity="left" />
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/text_stat_in_time"
+                android:text="@string/text_stat_in_time"
+                android:textSize="15sp"
+                android:layout_gravity="right"
+                android:layout_column="4"
+                android:gravity="left" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </TableRow>
+
+        <TableRow android:gravity="left"
+            >
+
+            <ImageView
+                android:id="@+id/incoming"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cell_shape"
+                android:src="@drawable/ic_call_log_list_incoming_call"
+                android:layout_column="1" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/IncomingCall"
+                android:text="@string/stat_incoming"
+                android:layout_marginRight="5dp"
+                android:elegantTextHeight="false"
+                android:layout_weight="1"
+                android:gravity="left" />
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/stat_in_sum"
+                android:text="nameLabel"
+                android:textSize="15sp"
+                android:gravity="left" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/stat_in_time"
+                android:text="nameLabel"
+                android:textSize="15sp"
+                android:gravity="left" />
+        </TableRow>
+        <TableRow android:gravity="left">
+
+            <ImageView
+                android:id="@+id/outcoming"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_call_log_list_outgoing_call"
+                android:background="@drawable/cell_shape"
+                android:layout_column="1" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/OutcomingCall"
+                android:text="@string/stat_outcoming"
+                android:layout_marginRight="5dp"
+                android:layout_gravity="left"
+                android:textSize="15sp"
+                android:layout_weight="1"
+                android:gravity="left" />
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/stat_out_sum"
+                android:text="nameLabel"
+                android:gravity="start" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/stat_out_time"
+                android:text="nameLabel"
+                android:layout_weight="1"
+                android:gravity="left" />
+
+
+        </TableRow>
+
+        <TableRow android:gravity="left">
+
+            <ImageView
+                android:id="@+id/missing"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cell_shape"
+                android:layout_column="1" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/missingCall"
+                android:text="@string/stat_missed"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:gravity="left" />
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/stat_miss_sum"
+                android:text="nameLabel"
+                android:textSize="15sp"
+                android:gravity="left|start" />
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/stat_miss_su"
+                android:textSize="15sp"
+                android:layout_column="4"
+                android:gravity="left" />
+
+
+        </TableRow>
+    </TableLayout>
+
+        <view
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            class="com.dacer.androidcharts.PieView"
+            android:id="@+id/pie_view"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+
+             />
+</LinearLayout>
+</ScrollView>
+</LinearLayout>

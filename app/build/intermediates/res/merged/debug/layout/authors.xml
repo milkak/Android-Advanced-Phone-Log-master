@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp">
+
+        <TextView
+            android:id="@+id/name1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/TextAppearance.Small"
+            android:textStyle="bold"
+            android:text="Miloš Koliáš"/>
+        <TextView
+            android:id="@+id/git1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/name1"
+            android:layout_marginTop="15dp"
+            style="@style/TextAppearance.Small"
+            android:text="Github"/>
+        <TextView
+            android:id="@+id/name2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/TextAppearance.Small"
+            android:textStyle="bold"
+            android:text="Felix Bechstein"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/name1"
+            android:layout_marginLeft="27dp"
+            android:layout_marginStart="57dp" />
+        <TextView
+            android:id="@+id/git2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/TextAppearance.Small"
+            android:text="Github"
+            android:layout_alignTop="@+id/git1"
+            android:layout_alignLeft="@+id/name2"
+            android:layout_alignStart="@+id/name2" />
+
+
+
+</RelativeLayout>
+
+</LinearLayout>

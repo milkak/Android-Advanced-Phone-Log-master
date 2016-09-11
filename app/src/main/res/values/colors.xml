@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="red">#7f00</drawable>
+    <drawable name="blue">#770000ff</drawable>
+    <drawable name="green">#7700ff00</drawable>
+	<drawable name="yellow">#77ffff00</drawable>
+	
+	<drawable name="custom_color_1">#77ff5555</drawable>
+	<drawable name="custom_color_2">#77ff2323</drawable>
+	<drawable name="custom_color_3">#77ffe1e1</drawable>
+	
+	<drawable name="screen_background_black">#ff000000</drawable>
+    <drawable name="translucent_background">#e0000000</drawable>
+    <drawable name="transparent_background">#00000000</drawable>
+
+    <color name="solid_red">#f00</color>
+    <color name="solid_blue">#0000ff</color>
+    <color name="solid_green">#f0f0</color>
+    <color name="solid_yellow">#ffffff00</color>
+    <color name="solid_white">#ffffffff</color>
+    <color name="solid_black">#ff000000</color>
+    <color name="solid_gray">#ff888888</color>
+    <color name="custom_gray">#88888888</color>
+    
+    <color name="custom_color_text_1">#77ffe1e1</color>
+
+	<color name="title_background">#ff355689</color>
+    <color name="title_text">#ffffffff</color>
+    <color name="title_text_alt">#ff000000</color>
+    <color name="foreground1">#ff355689</color>
+    <color name="foreground2">#ff7081a3</color>
+    <color name="background1">#ffffffff</color>
+    <color name="background2">#ffd5ddeb</color>
+    <color name="background3">#ffe3e8f1</color>
+    <color name="title_separator">#40ffffff</color>
+
+    <color name="session_foreground_past">#ff999999</color>
+
+    <color name="pinned_header_background">#ff202020</color>
+
+
+    <color name="list_item_title">#3f51b5</color>
+    <color name="list_background">#ffffff</color>
+    <color name="list_background_pressed">#f5f5f5</color>
+    <color name="list_divider">#ffffff</color>
+    <color name="feed_item_bg" >#ff394799</color>
+    <color name="feed_item_border" >#ffffffff</color>
+
+    <color name="color_primary_dark">#800000</color>
+    <color name="light">#800080</color>
+    <color name="accent">#FF0000</color>
+
+    <color name="cabinet_color">#1976D2</color>
+    <color name="cabinet_accent_color">#e91e63</color>
+    <color name="dark_theme_gray">#1F1F1F</color>
+    <color name="dark_theme_gray_darker">#292929</color>
+    <color name="non_colored_folder">#424242</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="drawer_background">#fff</color>
+    <color name="dark_background">#242424</color>
+
+    <color name="empty_text">#C7C7C7</color>
+    <color name="empty_text_dark">#575757</color>
+    <color name="button_disabled">#ddd</color>
+    <color name="button_disabled_dark">#303030</color>
+    <color name="holo">#8833B5E5</color>
+    <color name="toolbar_cab">#303030</color>
+
+
+    <color name="primary_indigo">#3f51b5</color>
+    <color name="primary_blue">#5677fc</color>
+    <color name="primary_light_blue">#03a9f4</color>
+    <color name="primary_teal">#009688</color>
+    <color name="primary_light_green">#8bc34a</color>
+    <color name="primary_green">#259b24</color>
+    <color name="primary_lime">#cddc39</color>
+    <color name="primary_yellow">#ffeb3b</color>
+    <color name="primary_amber">#ffc107</color>
+    <color name="primary_orange">#ff9800</color>
+    <color name="primary_red">#e51c23</color>
+    <color name="Gray">#808080</color>
+    <color name="child_separator_color">#e51c23</color>
+    <color name="theme_primary">#673ab7</color>
+    <color name="safr">#5f777777</color>
+    <color name="safrs">#5f777777</color>
+
+</resources>

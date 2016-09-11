@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Comm_">Typ volání</string>
+    <string name="NOTAVAIL">Není k dispozici</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Více možností"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhledávací dotaz"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Sdílet pomocí %s"</string>
+    <string name="about">O aplikaci</string>
+    <string name="add_calendar">Přidat do kalendáře</string>
+    <string name="all_inc">Všechny příchozí hovory</string>
+    <string name="all_logs">Včechna volání</string>
+    <string name="all_miss">Všechna ztracená volání </string>
+    <string name="all_outg">Včechna odchozí volání</string>
+    <string name="app_name">Rozšířený seznam volání</string>
+    <string name="authors">Autoři</string>
+    <string name="base_theme">Základní motiv</string>
+    <string name="base_theme_desc">Vyberte jaký chcete motiv světlý, tmavý nebo Amoled černý.</string>
+    <string name="choose_">Vyberte možnost</string>
+    <string name="choose_short">Vyberte zástupce</string>
+    <string name="close">Uzavřít</string>
+    <string name="copy_clibaord">Zkopirovat čislo do clipbordu</string>
+    <string name="copy_cliboard">Zkopirovat čislo do clipbordu</string>
+    <string name="curr_month_logs">Měsíční výpisy - tento měsíc</string>
+    <string name="dark">Tmavý</string>
+    <string name="daytime">Podle času</string>
+    <string name="defaultStr">Výchozí</string>
+    <string name="delete_all">Smazat včechny záznamy pro toto číslo</string>
+    <string name="delete_log">Smazat tento záznam</string>
+    <string name="dialog_all">Všechny</string>
+    <string name="dialog_call_type">Druh volání:</string>
+    <string name="dialog_cancel">Zrušit</string>
+    <string name="dialog_choice_log">Vyberte jednu z možností.</string>
+    <string name="dialog_end_time">Čas konce volání:</string>
+    <string name="dialog_hint_name">Jakýkoliv dlouhý stisk pro získání jména</string>
+    <string name="dialog_hint_num">Jakýkoliv dlouhý stisk pro získání tel.čísla</string>
+    <string name="dialog_incoming">Příchozí</string>
+    <string name="dialog_missed">Ztracené</string>
+    <string name="dialog_name">Jméno:</string>
+    <string name="dialog_name_log">Vyberte jméno z logu volání</string>
+    <string name="dialog_none">Žádný</string>
+    <string name="dialog_number">Číslo:</string>
+    <string name="dialog_numbers_log">Vyberte tel číslo z logu volání</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_outcoming">Odchozí</string>
+    <string name="dialog_start_time">Začátek volání:</string>
+    <string name="dialog_title">Specifikujte filter pro seznam volání </string>
+    <string name="done">Hotovo</string>
+    <string name="filter_">Filter</string>
+    <string name="light">Světlý</string>
+    <string name="more_">Další</string>
+    <string name="prev_month_logs">Měsíční výpisy - předešlý měsíc</string>
+    <string name="primary_color_desc">Primární barva motivu. Výchozí je  Material modrá.</string>
+    <string name="schedule_">Naplánovat událost</string>
+    <string name="sort_">Třídění</string>
+    <string name="sort_date">podle data vzestupně</string>
+    <string name="sort_dateA">podle data sestupně</string>
+    <string name="sort_name">podle jména vzestupně</string>
+    <string name="sort_nameA">podle jména sestupně</string>
+    <string name="sort_talk">podle hovoru vzestupně</string>
+    <string name="sort_talkA">podle hovoru sestupně</string>
+    <string name="stat_calls">Volání</string>
+    <string name="stat_incoming">Příchozí hovory</string>
+    <string name="stat_missed">Ztracené hovory</string>
+    <string name="stat_outcoming">Odchozí hovory</string>
+    <string name="statistic_">Statistika volání</string>
+    <string name="text_stat_in_sum">Počet volání</string>
+    <string name="text_stat_in_time">Celkem času</string>
+    <string name="theming">Motivy</string>
+    <string name="total">Celkový sumář volání</string>
+</resources>
